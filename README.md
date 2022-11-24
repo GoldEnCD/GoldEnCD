@@ -1,8 +1,8 @@
 using namespace std;
 
+string name = "GoldEnCD";
 int age = 14;
 string passions = "Programming and Engineering";
-string youtubeChannel = "https://www.youtube.com/channel/UC1vgu_dz2fOW9LTioEUzVmg";
 
 int aboutMe {
 
